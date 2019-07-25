@@ -1,6 +1,5 @@
 import React, { useReducer } from 'react';
 import axios from 'axios';
-import uuid from 'uuid';
 import ContactContext from './contactContext';
 import contactReducer from './contactReducer';
 import {
